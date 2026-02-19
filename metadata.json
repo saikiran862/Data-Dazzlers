@@ -1,0 +1,8 @@
+
+{
+  "name": "StyleSense+ | AI Fashion Architect",
+  "description": "An advanced emotion-aware fashion recommendation system that predicts future event feelings and optimizes outfits for confidence, comfort, and social perception using Generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
